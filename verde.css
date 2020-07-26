@@ -1,0 +1,114 @@
+body {
+    background: crimson;
+    color: gray;
+}
+
+h5 {
+    color: crimson
+}
+
+#ficha {
+    max-width: 800px;
+    margin: 100px auto;
+    border-radius: 5px;
+}
+
+.list-group-item.active {
+    background-color: crimson;
+    border: crimson 1px solid;
+}
+
+#title {
+    background: ghostwhite ;
+    padding-top: 10px ;
+    color: crimson;
+    font-weight: 800;
+
+}
+
+#ficha h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 22px;
+}
+
+.list-group-item.active {
+    background-color: #f7f5dd
+    border: #f7f5dd
+}
+
+.btn01 {
+    background-color: crimson;
+    border: crimson;
+    color: #f7f5dd;
+
+}
+
+.btn01:hover {
+    background-color: crimson;
+    opacity: 0.8;
+    border: crimson;
+    color: #f7f5dd;
+}
+
+#painel {
+    padding: 0;
+}
+
+.tab-content>.active {
+    padding: 30px 10px;
+}
+
+.list-group {
+    border-radius: 0;
+}
+
+#color {
+    text-align: center;
+    max-width: 400px;
+    margin: auto;
+    padding: 30px;
+top: 40;
+    display: flow-root;
+    right: 0;
+    border: 2px dotted antiquewhite;
+}
+
+
+#color h5 {
+    color: whitesmoke;
+}
+
+.verde {
+    background-color: crimson;
+}
+
+.verde:hover {
+    background-color: crimson;
+}
+
+.nights:hover {
+    background-color: #221f3b;
+}
+
+.nights {
+    background-color: #221f3b;
+}
+
+.coral {
+    background-color: coral;
+
+}
+
+.coral:hover {
+    background-color: coral;
+
+}
+
+.card {
+    margin-top: 30px;
+    background-color: whitesmoke;
+    border-radius: 10px;;
+    margin: 10px 30px ;
+
+    }
